@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#101018"
+    android:gravity="center">
+
+    <!-- Logo Box -->
+    <LinearLayout
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#5E5CE6"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_margin="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParent="true"
+        android:layout_alignWithParentIfMissing="true"
+        android:layout_alignParentHorizontal="true"
+        android:layout_alignParentVertical="true"
+        android:layout_alignParentCenterHorizontal="true"
+        android:layout_alignParentCenterVertical="true"
+        android:layout_alignParentCenter="true"
+        android:layout_alignParentMiddle="true"
+        android:layout_alignParentCenterInParent="true"
+        android:layout_alignParentCenterInParentHorizontal="true"
+        android:layout_alignParentCenterInParentVertical="true"
+        android:layout_alignParentCenterInParentBoth="true"
+        android:layout_alignParentCenterInParentAll="true"
+        android:layout_alignParentCenterInParentComplete="true"
+        android:layout_alignParentCenterInParentAbsolute="true"
+        android:layout_alignParentCenterInParentRelative="true"
+        android:layout_alignParentCenterInParentRelativeHorizontal="true"
+        android:layout_alignParentCenterInParentRelativeVertical="true"
+        android:layout_alignParentCenterInParentRelativeBoth="true"
+        android:layout_alignParentCenterInParentRelativeAll="true"
+        android:layout_alignParentCenterInParentRelativeComplete="true"
+        android:layout_alignParentCenterInParentRelativeAbsolute="true"
+        android:layout_alignParentCenterInParentRelativeAbsoluteHorizontal="true"
+        android:layout_alignParentCenterInParentRelativeAbsoluteVertical="true"
+        android:layout_alignParentCenterInParentRelativeAbsoluteBoth="true"
+        android:layout_alignParentCenterInParentRelativeAbsoluteAll="true"
+        android:layout_alignParentCenterInParentRelativeAbsoluteComplete="true"
+        android:layout_alignParentCenterInParentRelativeAbsoluteCompleteHorizontal="true"
+        android:layout_alignParentCenterInParentRelativeAbsoluteCompleteVertical="true"
+        android:layout_alignParentCenterInParentRelativeAbsoluteCompleteBoth="true"
+        android:layout_alignParentCenterInParentRelativeAbsoluteCompleteAll="true"
+        android:layout_alignParentCenterInParentRelativeAbsoluteCompleteComplete="true"
+        android:layout_alignParentCenterInParentRelativeAbsoluteCompleteCompleteHorizontal="true"
+        android:layout_alignParentCenterInParentRelativeAbsoluteCompleteCompleteVertical="true"
+        android:layout_alignParentCenterInParentRelativeAbsoluteCompleteCompleteBoth="true"
+        android:layout_alignParentCenterInParentRelativeAbsoluteCompleteCompleteAll="true"
+        android:layout_alignParentCenterInParentRelativeAbsoluteCompleteCompleteComplete="true"
+        android:layout_alignParentCenterInParentRelativeAbsoluteCompleteCompleteCompleteHorizontal="true"
+        android:layout_alignParentCenterInParentRelativeAbsoluteCompleteCompleteCompleteVertical="true"
+        android:layout_alignParentCenterInParentRelativeAbsoluteCompleteCompleteCompleteBoth="true"
+        android:layout_alignParentCenterInParentRelativeAbsoluteCompleteCompleteCompleteAll="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="🛒"
+            android:textSize="48sp"/>
+    </LinearLayout>
+
+    <!-- App Name -->
+    <TextView
+        android:id="@+id/tvAppName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cartify"
+        android:textColor="@android:color/white"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:layout_below="@id/logoBox"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"/>
+
+</RelativeLayout>
