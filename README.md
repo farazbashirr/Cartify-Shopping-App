@@ -27,3 +27,24 @@ It provides a smooth shopping experience with user authentication, product brows
 1. Clone the repository:  
    ```bash
    git clone https://github.com/farazbashirr/Cartify-Shopping-App.git
+2. Open the project in Android Studio
+3. Build & Run on emulator or physical device
+
+---
+
+## 🎯 Tech Stack
+- **Java** – Core application logic  
+- **XML** – UI layouts  
+- **SQLite** – Local database  
+- **Android Studio** – Development environment  
+
+---
+
+## 📸 Screenshots
+(Add app screenshots here for better presentation)  
+👉 Tip: Add 2–3 screenshots of login, product browsing, and cart screen for maximum impact.  
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** – free to use and modify.  
