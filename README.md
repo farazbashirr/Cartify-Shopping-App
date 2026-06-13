@@ -41,8 +41,11 @@ It provides a smooth shopping experience with user authentication, product brows
 ---
 
 ## 📸 Screenshots
-(Add app screenshots here for better presentation)  
-👉 Tip: Add 2–3 screenshots of login, product browsing, and cart screen for maximum impact.  
+<img width="357" height="535" alt="Screenshot 2026-01-04 143759" src="https://github.com/user-attachments/assets/bad77a6e-3743-40e7-abfc-abc8027045de" />
+<img width="362" height="545" alt="Screenshot 2026-01-04 143633" src="https://github.com/user-attachments/assets/dbc74e52-0fb3-43ed-8283-8ea9b7f4a988" />
+
+
+
 
 ---
 
